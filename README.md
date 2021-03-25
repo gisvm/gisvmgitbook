@@ -6,7 +6,7 @@ description: GIS Virtual Machine Documentation
 
 ## GIS Virtual Machine
 
-Welcome to the GISVM documentation
+Welcome to the GISVM documentation. Please read through!
 
 Becoming a super hero is a fairly straight forward process:
 
