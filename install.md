@@ -6,5 +6,3 @@ description: Short install guide
 
 Here you will find a short install Guide
 
-You must install a hypervisor
-
