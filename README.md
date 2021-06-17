@@ -2,23 +2,23 @@
 description: GIS Virtual Machine Documentation
 ---
 
-# GISVM Doc
+# GISVM Doc 2
 
-## GIS Virtual Machine
+## GIS Virtual Machine 2
 
 Welcome to the GISVM documentation. Please read through!
 
 Becoming a super hero is a fairly straight forward process:
 
 ```text
-$ give me mega-powers
+$ give me super-powers 2
 ```
 
 {% hint style="info" %}
 Super-powers are granted randomly so please submit an issue if you're not happy with yours.
 {% endhint %}
 
-Once you're strong enough, save the world and the plannet:
+Once you're strong enough, save the world:
 
 {% code title="hello.sh" %}
 ```bash
